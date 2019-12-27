@@ -1,3 +1,3 @@
 # Movie Catalogue
 
-Aplication Movie Catalogue for MADE class dicoding 
+Application Movie Catalogue for MADE class dicoding 
